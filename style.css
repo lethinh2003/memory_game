@@ -8,10 +8,12 @@ body {
   overflow-x: hidden;
 }
 .navigation {
+  right: 0;
+  bottom: 0;
   position: absolute;
   top: 0;
+  left: 0;
   height: 80px;
-  width: 100%;
   background-color: #0eade4;
   display: flex;
   justify-content: center;
